@@ -1,0 +1,24 @@
+{
+  "repository": "zerossl/documentation",
+  "commit": "546b3a5eb16f32366a5c7169141bc96085d12e57",
+  "pages": [
+    "api/cancel-certificate.md",
+    "api/create-certificate.md",
+    "api/download-certificate-inline.md",
+    "api/download-certificate.md",
+    "api/error-codes.md",
+    "api/generate-eab-credentials.md",
+    "api/get-certificate.md",
+    "api/index.md",
+    "api/list-certificates.md",
+    "api/overview.md",
+    "api/resend-verification.md",
+    "api/revoke-certificate.md",
+    "api/validate-csr.md",
+    "api/verification-status.md",
+    "api/verify-domains.md",
+    "acme/error-codes.md",
+    "acme/generate-eab-credentials.md",
+    "acme/index.md"
+  ]
+}
